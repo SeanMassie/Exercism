@@ -10,6 +10,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpDebugGeneral" xdebug_force_break_when_outside_project="false" />
   <component name="ProjectId" id="22W8MUCt8Nmo3FdIAVBmEU2n7eB" />
   <component name="ProjectViewState">
@@ -32,6 +35,7 @@
       <option name="presentableId" value="Default" />
       <updated>1639941935160</updated>
       <workItem from="1639941936721" duration="4000" />
+      <workItem from="1639961701752" duration="34000" />
     </task>
     <servers />
   </component>
